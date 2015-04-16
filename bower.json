@@ -8,7 +8,7 @@
       "/dist/autocomplete.min.css"
   ],
   "dependencies": {
-    "angular": "1.2.x"
+    "angular": ">=1.2.x"
   },
   "devDependencies": {
     "angular-mocks": "~1.2.x"
